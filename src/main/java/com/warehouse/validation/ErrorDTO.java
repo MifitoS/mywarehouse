@@ -16,7 +16,7 @@ public class ErrorDTO implements Serializable {
     public ErrorDTO(String field, String description) {
         this.field = field;
         this.description = description;
-        System.out.println("СУКА СРАБОТАЛО!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
+        System.out.println("СРАБОТАЛО!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
     }
 }
 
